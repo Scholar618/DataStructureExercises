@@ -1,2 +1,2 @@
 # DataStructureExercises
-这是本校数据结构课程相关的练习题
+这是数据结构相关的练习题
